@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/srv/http/tresle/store/.env</file>
+            <file>file:/srv/http/tresle/store/routes/web.php</file>
+            <file>file:/srv/http/tresle/store/app/Models/Business.php</file>
+            <file>file:/srv/http/tresle/store/tests/Feature/StoreTest.php</file>
+            <file>file:/srv/http/tresle/store/config/database.php</file>
+            <file>file:/srv/http/tresle/store/resources/views/index.blade.php</file>
+            <file>file:/srv/http/tresle/store/app/Http/Controllers/StoreController.php</file>
+        </group>
+    </open-files>
+</project-private>
