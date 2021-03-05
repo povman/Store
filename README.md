@@ -24,7 +24,7 @@ This command build a complete project and after I used the follow command:
   
   ```php artisan make:controller StoreController ```
 
-I used artisan to build 
+I used artisan to build on default paths
   - Store Controller
   - Business model
   - index blade view
